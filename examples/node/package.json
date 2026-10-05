@@ -1,0 +1,7 @@
+{
+  "name": "datalogger-client-example",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": { "start": "node client.js" },
+  "dependencies": { "mqtt": "^5.0.0" }
+}
